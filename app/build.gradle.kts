@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.theberdakh.compose_practice"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.theberdakh.compose_practice"
