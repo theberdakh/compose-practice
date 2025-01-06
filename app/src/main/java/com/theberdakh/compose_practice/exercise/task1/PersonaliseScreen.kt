@@ -1,4 +1,4 @@
-package com.theberdakh.compose_practice.exercise
+package com.theberdakh.compose_practice.exercise.task1
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
